@@ -9,7 +9,6 @@
             text-align: center;
             font-size: 40px;
             font-style: oblique;
-            margin-bottom: 5px;
             font-weight: bold;
         }
         a {
@@ -36,5 +35,8 @@
             font-size: medium;
             font-family: Verdana, Georgia, Tahoma, sans-serif;
             border-style: solid;
+        }
+        .container-fluid {
+            background-color:cornflowerblue;
         }
     
