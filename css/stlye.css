@@ -1,6 +1,7 @@
 
         body {
             background-color: rgb(233, 222, 162);
+            margin: auto;
         }
         header {
             color: #4116e1;
@@ -23,9 +24,8 @@
             margin: 35px auto 15px auto;
             background-color: rgb(34, 82, 171);
         }
-        table, tr, td {
+        table, td {
             border: 2px solid;
-            border
         }
         tr {
             ;
