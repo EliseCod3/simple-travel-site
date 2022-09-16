@@ -21,14 +21,20 @@
         }
         table {
             margin: 35px auto 15px auto;
-            padding: 5px ;
-            background-color: brown;
+            background-color: rgb(34, 82, 171);
+        }
+        table, tr, td {
+            border: 2px solid;
+            border
+        }
+        tr {
+            ;
         }
         p {
             margin: 5px 25px 5px 25px;
             padding: 10px 5px 10px 5px;
             font-size: medium;
-            font-family: sans-serif;
+            font-family: Verdana, Georgia, Tahoma, sans-serif;
             border-style: solid;
         }
     
