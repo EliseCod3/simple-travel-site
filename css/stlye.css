@@ -1,16 +1,23 @@
 
         body {
-            background-color: burlywood;
+            background-color: rgb(233, 222, 162);
         }
         header {
-            color: #bb67bb;
+            color: #4116e1;
+            background-color: #000;
             text-align: center;
             font-size: 40px;
             font-style: oblique;
             margin-bottom: 5px;
+            font-weight: bold;
         }
         a {
             margin-left: 10px;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #4116e1;
+            text-decoration: underline;
         }
         table {
             margin: 35px auto 15px auto;
@@ -20,5 +27,8 @@
         p {
             margin: 5px 25px 5px 25px;
             padding: 10px 5px 10px 5px;
+            font-size: medium;
+            font-family: sans-serif;
+            border-style: solid;
         }
     
